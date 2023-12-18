@@ -1,0 +1,15 @@
+// let m="33abc"
+// let n=null
+// let a=true;
+// console.log(Number(m));
+// console.log(n);
+// console.log(a);
+
+// "33"=>33
+// "33awda"=> nan
+// true=>1, false =>0
+
+let islog="manish"
+let m=Boolean(islog);
+console.log((m));
+
