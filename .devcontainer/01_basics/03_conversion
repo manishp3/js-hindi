@@ -1,15 +1,33 @@
-// let m="33abc"
-// let n=null
-// let a=true;
-// console.log(Number(m));
-// console.log(n);
-// console.log(a);
+// // let m="33abc"
+// // let n=null
+// // let a=true;
+// // console.log(Number(m));
+// // console.log(n);
+// // console.log(a);
 
-// "33"=>33
-// "33awda"=> nan
+// // "33"=>33
+// // "33awda"=> nan
 // true=>1, false =>0
 
-let islog="manish"
-let m=Boolean(islog);
-console.log((m));
+// let islog="manish"
+// let m=Boolean(islog);
+// console.log((m));
 
+// let val=3
+// let neg=-val
+// console.log(neg);
+
+
+// let str1="23";
+// let str2=1
+
+// let str3=str1+str2;
+// console.log(str3);
+// console.log(11+12+"1");
+// console.log("11"+12+1);
+// console.log(4*4+3%2);
+
+console.log(+true);
+let n1, n2, n3
+
+// let n1 = n2 = n3 = 2 + 3
