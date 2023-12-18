@@ -16,3 +16,6 @@ console.log(myobj);
 // reference non premitive
 // Arrays,object,Functions
 console.log(typeof(heros));
+
+
+// stack (Primitive) ,Heap(non-Premitive)
