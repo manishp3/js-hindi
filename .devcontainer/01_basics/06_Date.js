@@ -20,3 +20,4 @@ let nDate=new Date();
 console.log(nDate.getDay());
 
 console.log(nDate.toLocaleString());
+console.log("Hello World");
