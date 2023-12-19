@@ -18,8 +18,8 @@ const as=d.flat(2);
 console.log(as);
 
 const a=100;
-const b=200
-const c=300
+const b=200;
+const c=300;
 
 // console.log( Array.from("Hitesh"));
 console.log(Array.of(a,b,c));
