@@ -17,7 +17,7 @@ const d=[12,34,6,4,[6,5,3,],4,3,[,54,3,2,[4,3,2],43,2],56];
 const as=d.flat(2);
 console.log(as);
 
-const a=100
+const a=100;
 const b=200
 const c=300
 
